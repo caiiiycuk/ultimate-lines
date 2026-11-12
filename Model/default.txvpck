@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<nodeSet>
+  <view uin="25209oupl">
+    <property name="$name" value="default" />
+    <property name="$metaclass" value="Package Diagram" />
+    <reference referencedUin="source:Stones:Models">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="source:Stones:StoneU">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="source:Stones:StoneU.TStone">
+        <reference referencedUin="source:Stones:StoneU.TStone.Panel1" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Resize" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton1" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton2" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton3" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton4" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton5" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton6" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton7" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton8" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton9" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Moving" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton10" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton11" />
+        <reference referencedUin="source:Stones:StoneU.TStone.OpenDialog1" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormDestroy" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormResize" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormCreate" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormMouseDown" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormMouseUp" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormMouseMove" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormPaint" />
+        <reference referencedUin="source:Stones:StoneU.TStone.DrawPlant" />
+        <reference referencedUin="source:Stones:StoneU.TStone.DrawQuadSph" />
+        <reference referencedUin="source:Stones:StoneU.TStone.NewSH" />
+        <reference referencedUin="source:Stones:StoneU.TStone.DellAll" />
+        <reference referencedUin="source:Stones:StoneU.TStone.PaintAll" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FormClick" />
+        <reference referencedUin="source:Stones:StoneU.TStone.DrawCirc" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FindSelected" />
+        <reference referencedUin="source:Stones:StoneU.TStone.DrawIn" />
+        <reference referencedUin="source:Stones:StoneU.TStone.MoveTo" />
+        <reference referencedUin="source:Stones:StoneU.TStone.FindWay" />
+        <reference referencedUin="source:Stones:StoneU.TStone.KillSome" />
+        <reference referencedUin="source:Stones:StoneU.TStone.GetColor" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Kill" />
+        <reference referencedUin="source:Stones:StoneU.TStone.newG" />
+        <reference referencedUin="source:Stones:StoneU.TStone.NewGaClick" />
+        <reference referencedUin="source:Stones:StoneU.TStone.N1Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.N4Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.N2Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.N5Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Outtext" />
+        <reference referencedUin="source:Stones:StoneU.TStone.CreateTXT" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton5Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton6Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton7Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton8Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton9Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Selectway" />
+        <reference referencedUin="source:Stones:StoneU.TStone.MovingTimer" />
+        <reference referencedUin="source:Stones:StoneU.TStone.AfterMoving" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton10Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SpeedButton11Click" />
+        <reference referencedUin="source:Stones:StoneU.TStone.BindAllMatreials" />
+        <reference referencedUin="source:Stones:StoneU.TStone.destroyAllMaterials" />
+        <reference referencedUin="source:Stones:StoneU.TStone.DC" />
+        <reference referencedUin="source:Stones:StoneU.TStone.hrc" />
+        <reference referencedUin="source:Stones:StoneU.TStone.vp" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Rotate" />
+        <reference referencedUin="source:Stones:StoneU.TStone.ViewAngelX" />
+        <reference referencedUin="source:Stones:StoneU.TStone.ViewAngelY" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Ry" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Rx" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Count" />
+        <reference referencedUin="source:Stones:StoneU.TStone.LigthPos" />
+        <reference referencedUin="source:Stones:StoneU.TStone.First" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Curr" />
+        <reference referencedUin="source:Stones:StoneU.TStone.NS" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Angle" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Sy" />
+        <reference referencedUin="source:Stones:StoneU.TStone.SX" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Select" />
+        <reference referencedUin="source:Stones:StoneU.TStone.Score" />
+      </reference>
+    </reference>
+    <reference referencedUin="source:Stones:Materials">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+  </view>
+</nodeSet>
